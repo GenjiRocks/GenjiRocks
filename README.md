@@ -2,7 +2,7 @@
 <h1 align="center">Hi 🤘, I'm Ashwin Deepak</h1>
 <h3 align="center">Mastering the MERN stack: Currently honing skills in React and Express alongside expertise in HTML, CSS, JavaScript, and Bootstrap.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=genjirocks&label=Profile%20views&color=0e75b6&style=flat" alt="genjirocks" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=genjirocks&label=Views&color=0654ef&style=flat" alt="genjirocks" /> </p>
 
 - 🌱 I’m currently learning **React and Node.jS**
 
