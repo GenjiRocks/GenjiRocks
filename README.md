@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://ashwin-portfolio-six.vercel.app/](https://ashwin-portfolio-six.vercel.app/)
 
-- - 🧑‍💻 Ask me about **AI art with Stable Diffusion**
+- 🧑‍💻 Ask me about **AI art with Stable Diffusion**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
