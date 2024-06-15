@@ -1,3 +1,4 @@
+![logo](https://github.com/GenjiRocks/GenjiRocks/blob/main/banner.jpeg)
 <h1 align="center">Hi 🤘, I'm Ashwin Deepak</h1>
 <h3 align="center">Mastering the MERN stack: Currently honing skills in React and Express alongside expertise in HTML, CSS, JavaScript, and Bootstrap.</h3>
 
